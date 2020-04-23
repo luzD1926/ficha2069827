@@ -4,3 +4,6 @@ Ingeniero de sistemas con especialización en software, con conocimientos en and
 
 ## Ubicación
 Me puede encontrar en la Calle 56
+
+## Telefonos de contacto
+Pueden contactarme a los telefonos 434545
