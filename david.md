@@ -2,7 +2,7 @@
 
 NOMBRE: DAVID JOSE CABRERA BUELVAS
 Cc. 1041902292
-Fecha de naciemiento: 01/03/2020
+Fecha de naciemiento: 01/03/1999
 Estado civil: Soltero
 
 ## Formacion academica
