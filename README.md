@@ -2,3 +2,5 @@
 Proyecto donde los aprendices cargaran sus hojas de vida
 
 [HENRY GUZMAN](henry.md)
+
+[HECTOR CASTRO](hector.md)
